@@ -1,10 +1,10 @@
 Ingrdients:
--pasta
--mozzarela cheese
--Butter
--carrots
--cacicum(red,yellow)
--peas
--corn
--onions
--seasonins
+pasta
+mozzarela cheese
+Butter
+carrots
+capcicum(red,yellow)
+peas
+corn
+onions
+seasonings
